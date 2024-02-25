@@ -2,4 +2,3 @@
 ### So there i got the idea for TipsGotTrolled, **very** simple theme.
 Thank you for using it!
 If you have any issues, lmk. 
-# Check out my other tweaks.
