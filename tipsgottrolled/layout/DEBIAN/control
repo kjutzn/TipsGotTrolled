@@ -2,7 +2,7 @@ Package: com.kjutzn.tipsgottrolled
 Name: TipsGotTrolled
 Depends: com.spark.snowboard
 Version: 1.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Description: Ever wanted your tips to get trolled? Now you can troll them!
 Maintainer: kjutzn
 Author: kjutzn
