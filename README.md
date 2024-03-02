@@ -17,7 +17,3 @@ If you are using Palera1n (rootful), all iOS 13/14 jailbreaks:
 
 ### Latest Version:
 https://github.com/kjutzn/TipsGotTrolled/releases
-
-### Screenshots:
-<img src="https://github.com/kjutzn/TipsGotTrolled/assets/130908680/615637f8-56dd-4fe6-b60c-2991d768a6f2" width=30% height=30%>
-<img src="https://github.com/kjutzn/TipsGotTrolled/assets/130908680/8241304c-3b7d-4d7f-b97d-e7af442005c8">
