@@ -1,14 +1,10 @@
 # Tips Got Trolled
-Simple yet clean and effective theme to get your Tips trolled properly!
+**Simple yet clean and effective theme to get your Tips trolled properly!**
 
-## Ever wanted your tips to get trolled???
-**Now you can do that!**
-
-### Supports:
-All versions that SnowBoard Supports
+## Ever wanted your tips to get trolled??? Now they can be.
 
 ### Dependenties:
-Depends on SnowBoard Tweak [Repo](https://sparkdev.me/package/com.spark.snowboard)
+Depends on [SnowBoard](https://sparkdev.me/package/com.spark.snowboard).
 
 ### Installing:
 If you are using Dopamine, Palera1n (rootless) or any other rootless jailbreak:
