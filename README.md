@@ -10,5 +10,10 @@ If you are using Palera1n (rootful), all iOS 13/14 jailbreaks:
  - Get `com.kjutzn.tipsgottrolled_iphoneos-arm.deb` from releases tab.
 
 Depends on [SnowBoard](https://sparkdev.me/package/com.spark.snowboard).
+
 ## Latest Version:
 https://github.com/kjutzn/TipsGotTrolled/releases
+
+### Copyright:
+Tips icon is owned by Apple, if there are any copyright issues or similar message me.
+
